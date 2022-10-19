@@ -1,0 +1,8 @@
+C:\Users\kgmpi\OneDrive\Documents\Quinto Cuatrimestre\Progra ll (tercera vez)\Prograll_Examen1_KGM\bin\Debug\Prograll_Examen1_KGM.exe.config
+C:\Users\kgmpi\OneDrive\Documents\Quinto Cuatrimestre\Progra ll (tercera vez)\Prograll_Examen1_KGM\bin\Debug\Prograll_Examen1_KGM.exe
+C:\Users\kgmpi\OneDrive\Documents\Quinto Cuatrimestre\Progra ll (tercera vez)\Prograll_Examen1_KGM\bin\Debug\Prograll_Examen1_KGM.pdb
+C:\Users\kgmpi\OneDrive\Documents\Quinto Cuatrimestre\Progra ll (tercera vez)\Prograll_Examen1_KGM\obj\Debug\Prograll_Examen1_KGM.csproj.AssemblyReference.cache
+C:\Users\kgmpi\OneDrive\Documents\Quinto Cuatrimestre\Progra ll (tercera vez)\Prograll_Examen1_KGM\obj\Debug\Prograll_Examen1_KGM.csproj.SuggestedBindingRedirects.cache
+C:\Users\kgmpi\OneDrive\Documents\Quinto Cuatrimestre\Progra ll (tercera vez)\Prograll_Examen1_KGM\obj\Debug\Prograll_Examen1_KGM.csproj.CoreCompileInputs.cache
+C:\Users\kgmpi\OneDrive\Documents\Quinto Cuatrimestre\Progra ll (tercera vez)\Prograll_Examen1_KGM\obj\Debug\Prograll_Examen1_KGM.exe
+C:\Users\kgmpi\OneDrive\Documents\Quinto Cuatrimestre\Progra ll (tercera vez)\Prograll_Examen1_KGM\obj\Debug\Prograll_Examen1_KGM.pdb
